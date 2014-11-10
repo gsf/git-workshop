@@ -11,3 +11,6 @@ Repo for a Git workshop.
   * pushing to a remote production repository (w or w/o a github repository)
 * merging best practices
 * how to deal when git hits the fan
+
+## resources
+* https://github.com/blog/1640-git-internals-pdf-open-sourced
