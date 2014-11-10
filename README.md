@@ -14,3 +14,4 @@ Repo for a Git workshop.
 
 ## resources
 * https://github.com/blog/1640-git-internals-pdf-open-sourced
+* http://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain
