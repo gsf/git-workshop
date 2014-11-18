@@ -36,6 +36,10 @@ recent: `git commit --amend`
 archaeology: `git rebase -i HEAD~5`
 
 
+### commit message etiquette
+succinct but specific
+
+
 ## resources
 https://jlord.github.io/git-it/
 
