@@ -38,4 +38,5 @@ archaeology: `git rebase -i HEAD~5`
 
 ## resources
 https://jlord.github.io/git-it/
+
 http://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain
