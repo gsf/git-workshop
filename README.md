@@ -46,3 +46,5 @@ https://jlord.github.io/git-it/
 http://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain
 
 https://guides.github.com/introduction/flow/index.html
+
+[git for ages 4 and up](https://www.youtube.com/watch?v=1ffBJ4sVUb4)
