@@ -44,3 +44,5 @@ succinct but specific
 https://jlord.github.io/git-it/
 
 http://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain
+
+https://guides.github.com/introduction/flow/index.html
